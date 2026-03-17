@@ -1,13 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Luane%20Kaspr&fontSize=50&fontColor=ff2a6d&animation=twinkling&fontAlignY=35&desc=Fullstack%20%7C%20iOS%20Developer%20%7C%20PGFN%20Intern&descAlignY=58&descAlign=50&descColor=05d9e8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Luane%20Kasprzak&fontSize=50&fontColor=ff2a6d&animation=twinkling&fontAlignY=35&desc=Fullstack%20%7C%20iOS%20Developer%20%7C%20PGFN%20Intern&descAlignY=58&descAlign=50&descColor=05d9e8" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF2A6D&center=true&vCenter=true&width=650&lines=iOS+Developer+%7C+Swift+%26+SwiftUI+%F0%9F%8D%8E;Backend+com+Python+FastAPI+%26+Node.js+%E2%9A%A1;Estagiária+na+PGFN+%F0%9F%8F%9B%EF%B8%8F;Apaixonada+por+tecnologia+%E2%99%BF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF2A6D&center=true&vCenter=true&width=650&lines=Backend+com+Python+FastAPI+%26+Node.js+%E2%9A%A1;Estagiária+na+PGFN+%F0%9F%8F%9B%EF%B8%8F;Apaixonada+por+tecnologia+%E2%99%BF)](https://git.io/typing-svg)
 
 <p>
   <img src="https://img.shields.io/badge/Fullstack-Developer-ff2a6d?style=for-the-badge&labelColor=0d0221" />
   <img src="https://img.shields.io/badge/iOS-Swift-ff901f?style=for-the-badge&logo=swift&logoColor=white&labelColor=0d0221" />
-  <img src="https://img.shields.io/badge/Intern-PGFN-05d9e8?style=for-the-badge&labelColor=0d0221" />
 </p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=luanekaspr.luanekaspr&style=flat-square&color=ff2a6d)
