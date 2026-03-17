@@ -57,7 +57,7 @@ struct Luane: Developer {
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=javascript&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -96,7 +96,6 @@ struct Luane: Developer {
 | Projeto | Descrição |
 | :---: | :--- |
 | 🗣️ **FalaComigo** | App de acessibilidade em SwiftUI com integração VLibras |
-| 🏢 **Sistema de Gestão ONG** | Arquitetura robusta para controle financeiro de eventos |
 
 </div>
 
@@ -116,11 +115,8 @@ struct Luane: Developer {
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/luanekaspr" target="_blank">
+<a href="https://www.linkedin.com/in/luanekasprzak/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0221" />
-</a>
-<a href="mailto:seu-email@exemplo.com">
-  <img src="https://img.shields.io/badge/Email-ff2a6d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0221" />
 </a>
 
 </div>
