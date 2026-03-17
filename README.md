@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Luane%20Kasprzak&fontSize=50&fontColor=ff2a6d&animation=twinkling&fontAlignY=35&desc=Fullstack" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Luane%20Kasprzakzak&fontSize=50&fontColor=ff2a6d&animation=twinkling&fontAlignY=35" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF2A6D&center=true&vCenter=true&width=650&lines=Backend+com+Python+FastAPI+%26+Node.js+%E2%9A%A1;Estagiária+na+PGFN+%F0%9F%8F%9B%EF%B8%8F;Apaixonada+por+tecnologia)](https://git.io/typing-svg)
 
