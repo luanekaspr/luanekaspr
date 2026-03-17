@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Luane%20Kaspr&fontSize=50&fontColor=ff2a6d&animation=twinkling&fontAlignY=35&desc=Fullstack%20%7C%20iOS%20Developer%20%7C%20PGFN%20Intern&descAlignY=58&descAlign=50&descColor=05d9e8" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF2A6D&center=true&vCenter=true&width=650&lines=iOS+Developer+%7C+Swift+%26+SwiftUI+%F0%9F%8D%8E;Backend+com+Python+FastAPI+%26+Node.js+%E2%9A%A1;Estagiária+na+PGFN+%F0%9F%8F%9B%EF%B8%8F;Apaixonada+por+acessibilidade+digital+%E2%99%BF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF2A6D&center=true&vCenter=true&width=650&lines=iOS+Developer+%7C+Swift+%26+SwiftUI+%F0%9F%8D%8E;Backend+com+Python+FastAPI+%26+Node.js+%E2%9A%A1;Estagiária+na+PGFN+%F0%9F%8F%9B%EF%B8%8F;Apaixonada+por+tecnologia+%E2%99%BF)](https://git.io/typing-svg)
 
 <p>
   <img src="https://img.shields.io/badge/Fullstack-Developer-ff2a6d?style=for-the-badge&labelColor=0d0221" />
@@ -19,15 +19,15 @@
 ## 👾 Sobre Mim
 ```swift
 struct Luane: Developer {
-    let role       = ["iOS Developer", "Backend Dev", "Fullstack"]
+    let role       = ["Backend Dev", "Fullstack"]
     let education  = "Estudante de Tecnologia 🎓"
     let workplace  = "Estagiária de Desenvolvimento @ PGFN 🏛️"
     let passion    = "Interfaces acessíveis & sistemas escaláveis ✨"
 
     var stack: TechStack {
         .init(
-            mobile:  ["Swift", "SwiftUI", "Xcode", "VLibras"],
-            backend: ["Python", "FastAPI", "Node.js", "PostgreSQL"],
+            mobile:  ["Swift", "SwiftUI", "Xcode"],
+            backend: ["Python", "FastAPI", "Node.js", "JavaScript"],
             devops:  ["Docker", "Docker Compose", "GitHub Actions"],
             other:   ["C", "Data Structures", "Design Patterns"]
         )
@@ -43,8 +43,8 @@ struct Luane: Developer {
 
 | Camada | Tecnologias |
 | :---: | :--- |
-| 📱 **Mobile** | `Swift` `SwiftUI` `Xcode` `VLibras` |
-| ⚙️ **Backend** | `Python` `FastAPI` `Node.js` `PostgreSQL` |
+| 📱 **Mobile** | `Swift` `SwiftUI` `Xcode` |
+| ⚙️ **Backend** | `Python` `FastAPI` `Node.js` `JavaScript` |
 | 🐳 **DevOps** | `Docker` `Docker Compose` `GitHub Actions` |
 | 🧠 **Outros** | `C` `Data Structures` `Design Patterns` |
 
