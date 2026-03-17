@@ -9,23 +9,14 @@
 ---
 
 ## Sobre Mim
-```swift
-struct Luane: iOSDeveloper {
 
-    let role      = "Fullstack"
-    let status    = "Estagiária de Desenvolvimento 💼"
-    let passion   = "Transformar código em experiências práticas"
+Oi! Sou a Luane, estudante de **Sistemas de Informação** e estagiária de desenvolvimento
 
-    var stack: TechStack {
-        .init(
-            mobile:  ["Swift", "SwiftUI", "Xcode"],
-            backend: ["Python", "FastAPI", "Node.js", "JavaScript"],
-            devops:  ["Docker", "Docker Compose", "GitHub Actions"],
-            other:   ["C", "Data Structures", "Design Patterns"]
-        )
-    }
-}
-```
+Venho de uma base técnica em **Eletroeletrônica pelo SENAI** e já ensinei programação e robótica para crianças — o que me fez entender que tecnologia é sobre pessoas tanto quanto sobre código.
+
+No dia a dia, trabalho com automação de processos, integração de APIs e web scraping usando **Python, JavaScript e Google Cloud**. Me interesso por **backend, engenharia de dados e tudo que envolva resolver problemas de forma eficiente**.
+
+Sempre aprendendo, sempre construindo. ✨
 
 ---
 
@@ -85,11 +76,8 @@ struct Luane: iOSDeveloper {
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/luanekaspr" target="_blank">
+<a href="https://www.linkedin.com/in/luanekasprzak/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0221" />
-</a>
-<a href="mailto:seu-email@exemplo.com">
-  <img src="https://img.shields.io/badge/Email-ff2a6d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0221" />
 </a>
 
 </div>
