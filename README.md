@@ -1,83 +1,102 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Luane%20Kaspr&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Fullstack%20Developer&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Luane%20Kaspr&fontSize=50&fontColor=ff2a6d&animation=twinkling&fontAlignY=35&desc=Fullstack%20%7C%20iOS%20Developer%20%7C%20PGFN%20Intern&descAlignY=58&descAlign=50&descColor=05d9e8" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%92%BB;React+%7C+Node.js+%7C+TypeScript;Transformando+ideias+em+c%C3%B3digo+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF2A6D&center=true&vCenter=true&width=650&lines=iOS+Developer+%7C+Swift+%26+SwiftUI+%F0%9F%8D%8E;Backend+com+Python+FastAPI+%26+Node.js+%E2%9A%A1;Estagiária+na+PGFN+%F0%9F%8F%9B%EF%B8%8F;Apaixonada+por+acessibilidade+digital+%E2%99%BF)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/luanekaspr)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luanekaspr)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seu-portfolio.vercel.app)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+<p>
+  <img src="https://img.shields.io/badge/Fullstack-Developer-ff2a6d?style=for-the-badge&labelColor=0d0221" />
+  <img src="https://img.shields.io/badge/iOS-Swift-ff901f?style=for-the-badge&logo=swift&logoColor=white&labelColor=0d0221" />
+  <img src="https://img.shields.io/badge/Intern-PGFN-05d9e8?style=for-the-badge&labelColor=0d0221" />
+</p>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=luanekaspr.luanekaspr&style=flat-square&color=blueviolet)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=luanekaspr.luanekaspr&style=flat-square&color=ff2a6d)
 
 </div>
 
 ---
 
-## 👩‍💻 Sobre mim
-```typescript
-const luane = {
-  role: "Fullstack Developer",
-  focus: ["Web Development", "UI/UX", "APIs RESTful"],
-  stack: {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
-    backend:  ["Node.js", "Express", "NestJS"],
-    database: ["PostgreSQL", "MongoDB", "Prisma"],
-    devops:   ["Docker", "Git", "CI/CD"],
-  },
-  currently: "Construindo coisas incríveis 🚀",
-};
+## 👾 Sobre Mim
+```swift
+struct Luane: Developer {
+    let role       = ["iOS Developer", "Backend Dev", "Fullstack"]
+    let education  = "Estudante de Tecnologia 🎓"
+    let workplace  = "Estagiária de Desenvolvimento @ PGFN 🏛️"
+    let passion    = "Interfaces acessíveis & sistemas escaláveis ✨"
+
+    var stack: TechStack {
+        .init(
+            mobile:  ["Swift", "SwiftUI", "Xcode", "VLibras"],
+            backend: ["Python", "FastAPI", "Node.js", "PostgreSQL"],
+            devops:  ["Docker", "Docker Compose", "GitHub Actions"],
+            other:   ["C", "Data Structures", "Design Patterns"]
+        )
+    }
+}
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
 <div align="center">
 
-**Frontend**
+| Camada | Tecnologias |
+| :---: | :--- |
+| 📱 **Mobile** | `Swift` `SwiftUI` `Xcode` `VLibras` |
+| ⚙️ **Backend** | `Python` `FastAPI` `Node.js` `PostgreSQL` |
+| 🐳 **DevOps** | `Docker` `Docker Compose` `GitHub Actions` |
+| 🧠 **Outros** | `C` `Data Structures` `Design Patterns` |
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+</div>
 
-**Backend**
+<div align="center">
 
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0d0221?style=for-the-badge&logo=swift&logoColor=05d9e8)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-
-**Database & Tools**
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanekaspr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanekaspr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luanekaspr&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanekaspr&layout=compact&theme=synthwave&hide=html,css&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=luanekaspr&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=luanekaspr&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=luanekaspr&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=luanekaspr&theme=radical&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🚀 Projetos em Destaque
+
+<div align="center">
+
+| Projeto | Descrição |
+| :---: | :--- |
+| 🗣️ **FalaComigo** | App de acessibilidade em SwiftUI com integração VLibras |
+| 🏢 **Sistema de Gestão ONG** | Arquitetura robusta para controle financeiro de eventos |
 
 </div>
 
@@ -87,7 +106,22 @@ const luane = {
 
 <div align="center">
 
-[![Luane's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=luanekaspr&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=luanekaspr&theme=react-dark&bg_color=0d0221&color=ff2a6d&line=05d9e8&point=ff901f&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 📫 Conecte-se
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/luanekaspr" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0221" />
+</a>
+<a href="mailto:seu-email@exemplo.com">
+  <img src="https://img.shields.io/badge/Email-ff2a6d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0221" />
+</a>
 
 </div>
 
@@ -95,6 +129,8 @@ const luane = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&fontColor=ff2a6d" />
